@@ -1,0 +1,44 @@
+* h1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+* h3 {
+    color: aliceblue;
+}
+* h4 {
+    color: aliceblue;
+}
+* div {
+    display: block;
+    bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    background-color: rgb(16, 21, 13);
+    color: rgb(26, 37, 26);
+    font-style: bold;
+    border-style: solid;
+    padding: 10px;
+}
+body{
+    background-image: url("https://images.hindustantimes.com/img/2023/01/02/1600x900/julian-hochgesang-pgVvMfsv8EM-unsplash_1672637095502_1672637211163_1672637211163.jpg");
+    background-size: cover;
+    position: relative;
+    top: 155px;
+}
+*{
+    background-repeat: no-repeat;
+    text-align: center;
+}
+label{
+    color: rgb(243, 230, 230);
+    margin-right: 25px;
+}
+.container{
+
+    width: 20%;
+    padding: 100%
+    border-radius: 4px;
+}

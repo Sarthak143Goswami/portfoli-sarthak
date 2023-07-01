@@ -1,0 +1,7 @@
+*{
+    background-image: url("https://perfectdailygrind.com/wp-content/uploads/2018/11/Exterior-2-e1586438169779.jpg");
+    filter: brightness();
+    background-repeat: no-repeat;
+    background-size: 600px 800px;
+    margin-left: 60rem;
+}
